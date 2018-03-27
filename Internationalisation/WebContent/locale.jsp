@@ -9,6 +9,7 @@
 <title>Login Page</title>
 </head>
 <body>
+<h3>suchita</h3>
 	<bean:message key="label.selectlanguage" />:<br>
 	<html:link page="/changeLocale.do?method=english"><bean:message key="language.english"/></html:link>
 	<html:link page="/changeLocale.do?method=hindi"><bean:message key="language.hindi"/></html:link>
